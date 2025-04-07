@@ -1,0 +1,27 @@
+main {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.container1 .text{
+position: absolute;
+margin: -400px 250px 0 0;
+
+}
+
+.container1 .text h2{
+  text-align: center;
+  
+  }
+
+.container1 .image img{
+  opacity: 0.2;
+}
+
+
+
+

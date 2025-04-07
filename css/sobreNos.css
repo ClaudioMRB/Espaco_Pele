@@ -1,9 +1,4 @@
-
 @import url(headerPadrao.css);
-@import url(mainIndex.css);
 @import url(footerPadrao.css);
-@import url(bodyIndex.css);
-
-
-
-
+@import url(mainSobreNos.css);
+@import url(bodySobreNos.css);
