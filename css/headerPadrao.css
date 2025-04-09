@@ -10,7 +10,7 @@ header{
   background-color: black;
   height: 50px;
   display: flex;
-  justify-content: flex-start;
+  
 }
 
 .header-top h3 {

@@ -2,6 +2,7 @@ footer{
     margin: 0;
     padding: 0;
     background-color: rgb(204, 241, 102);
+    clear: both;
   }
 
   footer p{
