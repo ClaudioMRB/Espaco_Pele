@@ -10,13 +10,15 @@ main h2{
     text-align: center;
 }
 
-.bloco-text{
+.container1 .bloco-text{
     display: flex;
     
 }
 
+
+
 .bloco-text .text{
-    border: 3cap solid black;
+    border: 2px solid black;
     text-align: center;
     margin: 5px;
 }
